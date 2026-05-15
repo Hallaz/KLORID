@@ -1,0 +1,31 @@
+# Claude Code harness state (per-machine, not portable)
+.claude/
+
+# Upstream reference clones (kept local for development context, not redistributed)
+references/
+
+# KiCad runtime / auto-generated files
+*.lck
+~*.lck
+_autosave-*
+.history/
+fp-info-cache
+
+# KiCad legacy backups
+*-bak
+*-backups/
+
+# Derived artifacts (regenerated, not source of truth)
+working/
+
+# Local environment overrides
+.env
+.env.local
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~

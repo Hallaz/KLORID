@@ -1,0 +1,13 @@
+# KiCad 10+ runtime / auto-generated files
+.history/
+~*.lck
+_autosave-*
+erc/
+
+# KiCad legacy backups
+*-bak
+*-backups/
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
