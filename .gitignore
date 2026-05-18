@@ -16,6 +16,7 @@ fp-info-cache
 *-backups/
 *.bak
 _restore_backup_*/
+_bak/
 
 # Gerber / drill outputs (regenerated per Phase 4)
 gerbers/
